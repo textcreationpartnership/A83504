@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Three ordinances, declarations and votes of the Lords and Commons assembled in Parliament, for the present assessing of all such within the cities of London, Westminster, and the borough of Southwark, that have not contributed upon the propositions of both Houses of Parliament. With the additionall instructions to the Lord Maior, &amp;c. and the assessors and collectors of the said contributions.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83504</idno>
+            <idno type="STC">Wing E2358</idno>
+            <idno type="STC">Thomason E83_3</idno>
+            <idno type="STC">ESTC R776</idno>
+            <idno type="EEBO-CITATION">99873183</idno>
+            <idno type="PROQUEST">99873183</idno>
+            <idno type="VID">125644</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83504)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125644)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E83[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Three ordinances, declarations and votes of the Lords and Commons assembled in Parliament, for the present assessing of all such within the cities of London, Westminster, and the borough of Southwark, that have not contributed upon the propositions of both Houses of Parliament. With the additionall instructions to the Lord Maior, &amp;c. and the assessors and collectors of the said contributions.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright in the Old-baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Decemb. 22, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A² , B⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Attachment and garnishment --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125644:1" rendition="simple:additions"/>
+            <p>THREE ORDINANCES, DECLARATIONS and VOTES of the Lords and Commons aſſembled in PARLIAMENT, For the preſent aſſeſſing of all ſuch within the Cities of <hi>London, Weſtminſter,</hi> and the Borough of <hi>Southwark,</hi> that have not contri<g ref="char:EOLhyphen"/>buted upon the propoſitions of both Houſes of Parliament.</p>
+            <p>With the Additionall inſtructions to the Lord Maior, &amp;c. and the Aſſeſſors and Collectors of the ſaid Contributions.</p>
+            <p>Die Martis 20 Decemb. 1642.</p>
+            <p>
+               <hi>ORdered by the Lords and Commons aſſembled in Parliament, that theſe Ordinances, Decla<g ref="char:EOLhyphen"/>rations &amp; Votes be forthwith printed and publiſhed.</hi>
+            </p>
+            <p>I. Brown Cler. Parliamentorum.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Iohn Wright</hi> in the Old-baily, <hi>Decemb.</hi> 22. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb facs="tcp:125644:2"/>
+            <pb facs="tcp:125644:2"/>
+            <head>An Ordinance and Declaration of the Lords and Commons in Parliament.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the King ſeduced by wicked Councell hath raiſed warre againſt the Parliament, and great numbers of Forces are dayly raiſed under the command of Papiſts and other ill affected perſons, by Commiſſions from his Majeſty; and whereas divers Delinquents are protected from publique Juſtice by His Majeſties Army, and ſundry outrages and rapines are daily committed by the Souldi<g ref="char:EOLhyphen"/>ers of the ſaid Army, who have no reſpect to the Lawes of God, or the Land: but burne and plunder the houſes and ſeize and de<g ref="char:EOLhyphen"/>ſtroy the perſons and goods of divers His Majeſties good Sub<g ref="char:EOLhyphen"/>jects; And whereas for the maintenance of the ſaid army divers aſſeſſements are made upon ſeverall Counties and his Majeſties Subjects are compelled by the Souldiers to pay the ſame, which ſaid army if it ſhould continue would ſoon ruine and waſte the whole Kingdome, and overthrow Religion, Law, and Liberty; For ſuppreſſing of which ſaid army and ill affected perſons ther's no probable way under God but by the army raiſed by authority of the Parliament; which ſaid army ſo raiſed cannot be main<g ref="char:EOLhyphen"/>tained without great ſummes of money, yet for raiſing ſuch ſummes by reaſon of his Majeſties withdrawing himſelfe from the advice of the Parliament, there can be no act of Parliament paſſed with his Majeſties aſſent, albeit there is great Juſtice that the ſaid monies ſhould be raiſed. The Lords and Commons in Parliament having taken the ſame into their ſerious conſidera<g ref="char:EOLhyphen"/>tion, and knowing that the ſaid army ſo raiſed by them hath
+<pb facs="tcp:125644:3"/>beene hitherto for the moſt part maintained by the voluntary contributions of divers well affected perſons, who have freely contributed according to their abilities.</p>
+            <p>But conſidering there are divers others within the Cities of <hi>London,</hi> and <hi>Weſtminſter,</hi> and the Suburbs of the ſame, and alſo within the Borough of <hi>Southwarke,</hi> that have not contributed at all towards the maintenance of the ſaid army, or if they have, yet, not anſwerable to their Eſtates, who notwithſtanding re<g ref="char:EOLhyphen"/>ceive benefit and protection by the ſame army aſwell as any o<g ref="char:EOLhyphen"/>thers, and therefore 'tis moſt juſt that they ſhould aſwell as o<g ref="char:EOLhyphen"/>thers be charged to contribute to the maintenance thereof.</p>
+            <p>Be it therefore Ordained by the Lords and Commons in Par<g ref="char:EOLhyphen"/>liament aſſembled, and by authority thereof; That <hi>Iſaac Pen<g ref="char:EOLhyphen"/>nington</hi> Lord Major of the City of <hi>London,</hi> Sir <hi>Iohn Wollaſton</hi> Knight and Alderman, Alderman <hi>Towes,</hi> Alderman <hi>Warner,</hi> Alderman <hi>Andrewes,</hi> Alderman <hi>Chambers,</hi> Alderman <hi>Fowke,</hi> Sir <hi>Thomas Soams</hi> Knight and Alderman, <hi>Samuell Vaſſell, Iohn Venn, Morris Thompſon,</hi> and <hi>Richard Warring,</hi> Citizens; or any four of them ſhall hereby have power and authority to no<g ref="char:EOLhyphen"/>minate, and appoint in every Ward within the City of <hi>London,</hi> fix ſuch perſons as they, or any foure of them, ſhall thinke fit, which ſaid ſix ſo nominated, or any foure of them, ſhall hereby have power to enquire of any that ſhall remaine, or be within the ſaid ſeverall Wards that have not contributed upon the pro<g ref="char:EOLhyphen"/>poſitions of both houſes of parliament, concerning the raiſing of money, plate, horſe, horſemen, and armes, for defence of the King and both houſes of parliament, and alſo of ſuch as are able men, that have contributed, yet not according to their eſtates and abilities. And the ſaid ſix perſons ſo nominated or any four of them within their ſeverall and reſpective Wards and limits, ſhall have power to aſſeſſe ſuch perſon and perſons, as are of ability and have not contributed, and alſo ſuch as have contributed, yet not according to their ability, to pay ſuch ſum or ſums of money according to their eſtates, as the ſaid aſ<g ref="char:EOLhyphen"/>ſeſſors or any four of them ſhall think fit and reaſonable, ſo as the ſame exceed not the twentieth part of their eſtates, and to nominate and appoint fit perſons for the collection thereof: and
+<pb facs="tcp:125644:3"/>if any perſon ſo aſſeſſed ſhall refuſe to pay the money aſſeſſed upon him, It ſhall be lawfull to and for the ſaid aſſeſſors and collectors, or any of them to leavy the ſaid ſum ſo aſſeſſed by way of diſtreſſe and ſale of the goods of the perſon ſo aſſeſſed, and refuſing; and if any perſon ſo diſtreined ſhall make reſiſtance, It ſhall be lawfull to and for the reſpective aſſeſſors and collectors or any of them, to call to their aſſiſtance any the Trained bands of the ſaid City of <hi>London,</hi> or any other his Majeſties Subjects, who are hereby re<g ref="char:EOLhyphen"/>quired to be aiding and aſſiſting to the ſaid aſſeſſors and collectors in the premiſſes; and it is hereby farther ordained, that the re<g ref="char:EOLhyphen"/>ſpective Burgeſſes of <hi>Weſtminſter</hi> and <hi>Southwarke,</hi> together with the ſeverall Committees appointed for the ſubſcriptions of money, plate, horſe, horſe-men, and armes within the ſaid City and Bo<g ref="char:EOLhyphen"/>rough, ſhall reſpectively have power hereby to nominate Seſſors for the ſame City and Borough, in ſuch manner as the Lord Major, &amp;c. hath for the City of <hi>London,</hi> and the ſaid aſſeſſors or any four of them to name Collectors as aforeſaid; Which ſaid aſſeſſors and Collectors ſhall have the ſame power reſpectively within their re<g ref="char:EOLhyphen"/>ſpective limits, as thoſe to be nominated within the ſaid Citie of <hi>London</hi> have hereby limited to them. And for the Suburbs of <hi>London</hi> and <hi>Weſtminſter,</hi> the reſpective Knights of the ſhire where the ſaid ſuburbs are, ſhall have hereby the like power to name aſſeſ<g ref="char:EOLhyphen"/>ſors, and they ſo named, or any foure of them, and the collectors by them to be nominated, or any of them within their reſpective limits, ſhall have the like power reſpectively, as the aſſeſſors and collectors for <hi>London</hi> have by vertue of this Ordinance. And be it ordained that the ſums ſo aſſeſſed and levied as aforeſaid ſhall be paid in at Guild-Hall <hi>London</hi> to the hands of Sir <hi>Iohn Wollaſton</hi> Knight, <hi>John Warner, John Towes</hi> and <hi>Thomas Andrews</hi> Aldermen, or any two of them; and the aſſeſſors and collectors to be nomina<g ref="char:EOLhyphen"/>ted by vertue hereof ſhall weekely report to the committee of the Houſe of Commons, for the propoſitions aforeſaid what ſums of money have bin aſſeſſed, and what ſums have bin levied weekely according to the purport hereof, and the ſaid monies ſo levyed and paid in ſhall be iſſued forth in ſuch ſort as the other monies raiſed upon the propoſitions aforeſaid, and not otherwiſe.</p>
+            <div type="ordinance">
+               <pb facs="tcp:125644:4"/>
+               <head>Die Martis, <hi>29</hi> Novemb. <hi>1642.</hi>
+               </head>
+               <p>WHereas a late Ordinance is paſſed by both houſes of Parliament for the reaſons therein declared, for the aſſeſſing of all ſuch perſons within the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> and the Suburbs thereof, with the Borough of <hi>Southwarke,</hi> as have not contributed upon the propoſitions of both houſes of parliament, for raiſing of money, plate, horſe, horſemen, and armes, for defence of the King, Parliament, and Kingdome, or have not contributed proportionably to their e<g ref="char:EOLhyphen"/>ſtates and abilities. And whereas it is though fit that ſome addi<g ref="char:EOLhyphen"/>tions be made for further explanation and better execution of the ſaid Ordinance: Be it further ordained and declared by the Lords and Commons aſſembled in parliament, that ſuch perſons as ſhall be aſſeſſed by the reſpective aſſeſſors in the ſaid Ordinance appoin<g ref="char:EOLhyphen"/>ted, and ſhall within ſix daies next after notice given to them, or left at their ſeverall houſes within the ſaid Cities, Suburbs, or Bor<g ref="char:EOLhyphen"/>rough, pay in the one moity of the ſaid ſums of money ſo aſſeſſed and within twelve daies after the ſaid notice given as aforeſaid, the other moity thereof, unto the Treaſurers of money and plate in <hi>Guild-hall London,</hi> or unto the Collectors appointed by the ſaid Ordinance, reſpectively to receive the ſame, that then the ſaid treaſurers, or collectors, ſhall give acquitances for the ſame, as hath been done to ſuch who have lent monies or plate, upon the propoſitions of both houſes as aforeſaid. And the ſaid monies ſo paid to the ſaid treaſurers, or to the ſaid ſeverall Collectors, ſhal be repaid upon the publike Faith, as all other monies lent upon the ſaid propoſitions of both houſes. And as for thoſe who ſhall ſo far diſcover their diſaffection, as not to bring in the ſeverall ſums of money ſo aſſeſſed upon them to the perſons before appoin<g ref="char:EOLhyphen"/>ted, within the times limited, that then their goods ſhall be diſ<g ref="char:EOLhyphen"/>trained and ſold according to the ſaid Ordinance. And if no ſuf<g ref="char:EOLhyphen"/>ficient diſtreſſe be found, that then the ſaid Collectors ſhall reſpec<g ref="char:EOLhyphen"/>tively
+<pb facs="tcp:125644:4"/>have power to enquire of any ſum or ſums of money due, or to be due unto them reſpectively ſo aſſeſſed from any perſon or per<g ref="char:EOLhyphen"/>ſons for any Rents, tithes, Goods, or Debts, or for any other thing or cauſe whatſoever.</p>
+               <p>And the ſaid reſpective Collectors ſhall have power by vertue of this Ordinance, to receive all or any part of the ſaid ſums due, or to be due unto them, or any of them ſo aſſeſſed, untill the full value of the ſum or ſums ſo aſſeſſed, and the charges in levying and reco<g ref="char:EOLhyphen"/>vering of the ſame ſhall be received and ſatified; And the ſaid re<g ref="char:EOLhyphen"/>ſpective Collectors ſhall have further power to compound for any of the ſaid Rents, Tithes, Goods or Debts, due unto the ſaid perſon ſo aſſeſſed reſpectively as aforeſaid, with any perſon or perſons by whom the ſaid Rents, Tithes, Goods, or Debts, are or ſhall be owing, as alſo to give full and ample diſcharge for the Money by them ſo received, upon compoſition or otherwiſe, which diſcharges ſhall be good and effectuall to all intents and purpoſes. And if the ſum or ſums of Money ſo aſſeſſed cannot be levyed by any of theſe means or waies, then the perſons ſo reſpectively aſſeſſed, ſhall be impriſo<g ref="char:EOLhyphen"/>ned in ſuch places of this Kingdome, and for ſo long time as the Committee of the Houſe of Commons for the Examinations, ſhall appoint and order: and the families of all ſuch perſons ſo impriſo<g ref="char:EOLhyphen"/>ned, ſhal no longer remain within the Cities of <hi>London</hi> and <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> the Suburbs, and the Counties adjacent.</p>
+               <p>And be it further ordained, that all and every the aſſeſſors and Collectors, of the ſaid ſeverall ſums, ſhall have the protection of both Houſes of Parliament, for their indemnity in this ſervice, and receive ſuch reaſonable allowances for their pains taken, and char<g ref="char:EOLhyphen"/>ges disburſed or to be disburſed therein as the Committee of Lords and Commons for advance of Money and other neceſſaries for the army, raiſed by the Parliament, ſhal apportion and appoint.</p>
+            </div>
+            <div type="declaration">
+               <pb facs="tcp:125644:5"/>
+               <head>A Declaration of the Lords and Commons aſſembled in Parliament.</head>
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Die Mercurii,</hi> 7 <hi>Decemb.</hi> 1642.</date>
+                  </dateline>
+               </opener>
+               <p>WHereas in and by a late Ordinance of both Hou<g ref="char:EOLhyphen"/>ſes of Parliament, It is ordained for the cauſe therein expreſſed, that all perſons of ability within the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> and Suburbs of the ſame; and alſo within the Borough of <hi>Southwark,</hi> who have not at all, or not anſwerable to their eſtates, contributed towards th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> maintenance of the army raiſed by authority of this preſent Parliament, ſhall be aſſeſſed in ſuch manner and proportion as in the ſaid Or<g ref="char:EOLhyphen"/>dinance is directed; of which the Lords and Commons now aſſembled in Parliament do expect a vigorous and ſpeedy execution: but finding ſome doubt to be raiſed upon the point of time, whether that clauſe of not contri<g ref="char:EOLhyphen"/>buting at all, or not in proportion to their eſtates, be meant of not contributing before the paſſing of the ſaid Ordi<g ref="char:EOLhyphen"/>nance in both houſes of Parliament, or to be extended to any time before the aſſeſſing of them, and giving them notice of it, in ſuch manner as in the ſaid Ordinance is ap<g ref="char:EOLhyphen"/>pointed. We the ſaid Lords and Commons in Parliament aſſembled, do hereby declare, That if any perſon or per<g ref="char:EOLhyphen"/>ſons who have not contributed at all, or not anſwerable to their eſtates, ſhall before any aſſeſſement of them be made, and notice thereof left at their Houſes, according to the ſaid Ordinance, contribute towards the mainte<g ref="char:EOLhyphen"/>nance of the ſaid Army, by loane or otherwiſe, according to their ſeverall and reſpective eſtates, as others wel-affected have already done, without evaſion or colluſion,
+<pb facs="tcp:125644:5"/>every ſuch perſon ſo contributing, ſhall be accepted as doing an acceptable ſervice to the Common-wealth, &amp; be freed from the payment of all and every tax and aſ<g ref="char:EOLhyphen"/>ſeſſement of him to be made by the Aſſeſſors, authori<g ref="char:EOLhyphen"/>zed by the ſaid Ordinance for that purpoſe; as likewiſe from all diſtreſſes, impriſonment, and other Puniſh<g ref="char:EOLhyphen"/>ments to be inflicted by vertue of the ſaid Ordinance, or any addition to, or explanation made of it, for the not paying of any ſuch aſſeſſements: And hereof all ſuch Aſſeſſors and Collectors, are hereby required to take notice. And for this end, It is ordered by the ſaid Lords and Commons, that this Declaration be forth<g ref="char:EOLhyphen"/>with printed and publiſhed.</p>
+            </div>
+            <div type="votes">
+               <head>VOTES Of the Lords and Commons Aſſembled in Parliament, for the better enabling of the Lord Major to put their ſaid Ordinance in execution.</head>
+               <opener>
+                  <dateline>
+                     <date>Die Mercurii, <hi>7.</hi> Decemb. <hi>1642.</hi>
+                     </date>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>Reſolved upon the Queſtion.</hi>
+               </p>
+               <p>THat the Lord Major and other perſons named in the Or<g ref="char:EOLhyphen"/>dinance, ſhall have power to nominate and appoint ſix other perſons to be Aſſeſſors in the ſeveral Wards of <hi>Farring<g ref="char:EOLhyphen"/>don without</hi> and <hi>Cripplegate,</hi> and as many in other Wards as ſhall be cauſe.</p>
+               <p>
+                  <hi>Reſolved upon the queſtion.</hi>
+               </p>
+               <p>THat the Lord Major, and the other perſons named in the ſaid Ordinance, ſhall have power to nominate two perſons to be Aſſeſſors in the ſeverall priviledged places within the ſeverall Wards.</p>
+            </div>
+            <div type="ordinance">
+               <pb facs="tcp:125644:6"/>
+               <head>
+                  <hi>Die Mercurii</hi> 14. <hi>Decemb.</hi> 1642. An Ordinance, made by the Lords and Commons in Parliament aſſembled, for the better and more ſpeedy execution of the late Ordinance of <hi>Novemb.</hi> 29. 1642.</head>
+               <p>WHereas according to an Ordinance and Declaration of the Lords and Commons aſſembled in Parliament, of the 29 of <hi>November</hi> laſt, the perſons whoſe names are ſubſcribed, are appointed and ſince approved of by both Houſes of Parliament, to be Aſſeſſors and Collectors of It is now ordered by the Lords and Commons aſſembled in Par<g ref="char:EOLhyphen"/>liament. And the ſaid perſons, are hereby required and authori<g ref="char:EOLhyphen"/>zed, upon the Receipt of this order, forthwith to proceed, effe<g ref="char:EOLhyphen"/>ctually and diligently, to execute the ſaid Ordinance, according to the tenor thereof, in every behalfe, without omiſſion, favour, dread, malice, or any other thing, to be attempted, by them, or any of them, to the contrary thereof: And for that end, It is fur<g ref="char:EOLhyphen"/>ther ordained and declared: That the ſaid aſſeſſors ſhall hereby have authority to call before them, as well ſuch perſons, as they ſhall think fit to their aſſiſtance: as alſo, all or any ſuch perſons, as are to be aſſeſſed. And the ſaid aſſeſſors ſhall appoint the ſaid collectors in their ſeverall Diviſions and Precincts, for gathering the ſums that ſhall be aſſeſſed; and give notice of the ſum and ſums of money, at which every perſon in their diviſions and pre<g ref="char:EOLhyphen"/>cincts ſhall be particularly aſſeſſed.</p>
+               <p>And whereas it is expreſſed, in the ſaid Ordinance, (ſo as the aſſeſſement exceed not the twentieth part of the eſtates of the perſons to be aſſeſſed) It is hereby declared, for prevention of all inequality in the ſaid aſſeſſement: That if the ſaid aſſeſſors, or
+<pb facs="tcp:125644:6"/>any foure of them, proceeding in their aſſeſſement according to their judgments, and beſt information, ſhall aſſeſſe any perſon above the twentieth part of his eſtate; and that the perſon ſo aſſeſſed, doth find himſelf grieved with the ſame aſſeſſing or ra<g ref="char:EOLhyphen"/>ting; that then the party ſo aſſeſſed (paying one moity of the ſum he ſhall be aſſeſſed at, within ſix daies next after aſſeſſement, and notice thereof given, or left at the dwelling houſe of the party ſo aſſeſſed) may, (during ſix daies, after his having paid the ſaid moity, as aforeſaid) have liberty, and may addreſſe him<g ref="char:EOLhyphen"/>ſelf for remedy and relief unto the perſons nominated by the ſaid Ordinance, to nominate the aſſeſſors, or any four of them &amp; may tender his voluntary oath or proteſtation to ſuch perſons that he is over-rated, and of the true value of his eſtate (if he pleaſe) and after due examination, and perfect knowledge thereof had and perceived; the ſaid perſons authorized to nominate aſſeſſors as a<g ref="char:EOLhyphen"/>foreſaid, or any foure of them, ſhall hereby have power to order ſuch abatement of the ſaid aſſeſſement, according as ſhal appeare unto them juſt and equall, upon the ſame examination. And it is hereby further Ordained and Declared, that the perſons ſo aſſeſ<g ref="char:EOLhyphen"/>ſed and ſworn, ſhall within three daies next after the order of a<g ref="char:EOLhyphen"/>batement, in that behalf made, payd unto, or be repaid by the Treaſurers who received the other moity of ſuch aſſeſſement, ſuch ſum or ſums of money, as by the ſaid order of abatement ſhal be appointed: and in caſe the ſaid perſon, ſo ſworn and aſ<g ref="char:EOLhyphen"/>ſeſſed, ſhal not pay within the ſaid three daies next after order of abatement made, the ſum therby ordered to be paid; that then the ſame ſum ſhal be recovered by diſtreſſe or otherwiſe, as is provi<g ref="char:EOLhyphen"/>ded in the ſaid Ordinance of the 29. of <hi>November</hi> laſt, (in caſe the ſums aſſeſſed ſhal not be paid into the <hi>Guildhall London,</hi> according to the true meaning of the ſame) And if it be proved by witneſſes, or by the parties own confeſſion, or other lawful waies or means, within ſix months after any ſuch oath made, that the ſame perſon ſo rated and ſworn, was of any better or greater eſtate, in lands, goods, or other things above ſpecified, at the time of the making the ſaid Ordinance, then the ſaid perſon ſo ſworn did declare upon his oath; That then every perſon ſo offending, ſhal loſe and
+<pb facs="tcp:125644:7"/>forfeit ſo much lawfull money of <hi>England,</hi> as he the ſame perſon ſo ſworn was firſt aſſeſſed at or taxed to pay, by vertue of the Or<g ref="char:EOLhyphen"/>dinance aforeſaid: to be recovered by diſtreſſe or otherwiſe, as is provided in the ſaid Ordinance of the 29. of <hi>November</hi> laſt, (in caſe the ſums of money to be aſſeſſed by vertue of the ſaid Ordi<g ref="char:EOLhyphen"/>nance ſhal not be paid into the <hi>Guildhall London,</hi> according to the true meaning of the ſame) And it is hereby further ordai<g ref="char:EOLhyphen"/>ned and declared, That the ſaid aſſeſſors and collectors ſhall in<g ref="char:EOLhyphen"/>curre no damage by reaſon of their over-valuing the eſtate of any perſon aſſeſſed, or to be aſſeſſed, or recovering, or receiving the ſame by vertue of the Ordinance aforeſaid, unleſſe ſome cor<g ref="char:EOLhyphen"/>ruption or indirect carriage therein, ſhal be proved in Parliament againſt them.</p>
+            </div>
+            <div type="ordinance">
+               <head>Die Martis, <hi>20.</hi> Decemb. <hi>1642.</hi>
+               </head>
+               <p>WHereas ſeverall Ordinances of both Houſes of Parliament of the 29 of <hi>November</hi> laſt, and of the 7. and 14. of this inſtant <hi>December,</hi> were paſſed con<g ref="char:EOLhyphen"/>cerning the aſſeſſing ſuch perſons as are of ability, as in the ſaid Ordinances do and may appeare, It is now fur<g ref="char:EOLhyphen"/>ther Ordained and Declared by the Lords and Com<g ref="char:EOLhyphen"/>mons in Parliament aſſembled, That the ſeverall and reſpective Aſſeſſors ſhall not aſſeſſe any of the Mem<g ref="char:EOLhyphen"/>bers of either of the Houſes of Parliament, or the Aſ<g ref="char:EOLhyphen"/>ſiſtants of the Houſe of Peeres, any thing in the pre<g ref="char:EOLhyphen"/>ceding forementioned Ordinances, or any of them, to the contrary notwithſtanding. But that the members of either Houſe ſhall be aſſeſſed by that Houſe whereof they are members, and the Aſſiſtants of the Peeres by the Houſe of Peeres.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
